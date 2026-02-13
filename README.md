@@ -3,6 +3,9 @@
 A simple N-body gravity simulation built in Unity.
 Users can dynamically create multiple objects, assign mass, initial position, and velocity through a UI, and simulate gravitational interaction between them.
 
+## Prerequisite
+- requires Unity (Recommended 2021 or newer)
+
 ## Usage
 1. Clone repo
 2. Open project in Unity
